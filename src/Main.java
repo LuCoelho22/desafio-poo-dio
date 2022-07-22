@@ -1,5 +1,4 @@
 import br.com.dio.desafio.dominio.*;
-
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
